@@ -20,5 +20,6 @@ or
 deactivate py39
 ```
 
+<img width="620" alt="82J0h" src="https://user-images.githubusercontent.com/6225593/166659697-8f8fd14c-274b-494d-aad8-0248d8b7c17c.png">
 
 
