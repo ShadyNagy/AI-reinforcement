@@ -5,6 +5,7 @@ http://ai.berkeley.edu/reinforcement.html
 
 ### how to use multi env on Anaconda
 Python 2.7 and 3.9
+Use: Anaconda Prompt (anaconda3)
 
 ```powershell
 conda create -n py27 python=2.7 
