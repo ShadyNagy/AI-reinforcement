@@ -1,0 +1,7 @@
+name: py2
+channels:
+  - conda-forge
+dependencies:
+  - python=2.7.15
+  - spyder=3.3.6
+  - qtawesome=0.5.7

@@ -24,16 +24,15 @@ deactivate py39
 ```powershell
 conda create -n py2 --override-channels -c conda-forge python=2.7 spyder=3.3 qtawesome=0.7
 ```
+py2.yaml file
 ```
-py2.yaml
-
 name: py2
 channels:
   - conda-forge
 dependencies:
-  - python=2.7
-  - spyder=3.3
-  - qtawesome=0.7
+  - python=2.7.15
+  - spyder=3.3.6
+  - qtawesome=0.5.7
 ```
 
 <img width="620" alt="82J0h" src="https://user-images.githubusercontent.com/6225593/166659697-8f8fd14c-274b-494d-aad8-0248d8b7c17c.png">
